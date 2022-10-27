@@ -1,6 +1,6 @@
 baseURL = "https://www.example.com/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "摆渡咨询·FerryDAO"
 themesDir = "../.."
 theme = "hugo-hero-theme"
 
