@@ -13,10 +13,10 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo_0.png"
+    mobile = "images/FerryDAO文字logo.png"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo_0.png"
+    desktop = "images/FerryDAO文字logo.png"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "Hugo Hero"
