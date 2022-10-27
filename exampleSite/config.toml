@@ -33,27 +33,27 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
+	name = "服务"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "工作"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 3
 
 [[menu.main]]
-    name = "History"
+    name = "社区"
     url = "/history/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "联系我们"
     url = "/contact/"
     weight = 4
 
