@@ -1,7 +1,7 @@
 ---
 title: 'Home'
-date: 2018-02-12T15:37:57+07:00
-heroHeading: 'Hero - Hugo Small Business Theme'
-heroSubHeading: 'Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site.'
-heroBackground: 'images/jason-blackeye-1191801-unsplash.jpg'
+date: 2022-10-27T15:37:57+07:00
+heroHeading: '帮你掌握去中心化商业技能'
+heroSubHeading: '我们将在5年内达到帮助1亿人掌握去中心化商业技能的目标，因为我们相信每多一个人理解去中心化商业，就能为社会多带来一份财富'
+heroBackground: 'images/企业商务展板背景.jpg'
 ---
