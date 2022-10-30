@@ -33,12 +33,12 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "咨询服务1"
+	name = "咨询服务"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "价值清单1"
+    name = "价值清单"
     url = "/work/"
     
     weight = 2
@@ -49,7 +49,7 @@ theme = "hugo-hero-theme"
     weight = 3
 
 [[menu.main]]
-    name = "查看日程1"
+    name = "查看日程"
     url = "/history/"
     weight = 3
 
