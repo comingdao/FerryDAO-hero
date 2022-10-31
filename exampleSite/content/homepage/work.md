@@ -1,7 +1,7 @@
 ---
 title: '提升你的商业价值'
 weight: 1
-background: 'images/Success Man.jpg'
+background: 'images/眺望.jpg'
 button: '了解我们'
 buttonLink: 'work'
 ---
