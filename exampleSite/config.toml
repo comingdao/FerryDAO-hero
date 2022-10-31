@@ -42,10 +42,10 @@ theme = "hugo-hero-theme"
     url = "/work/" 
     weight = 2
     
-[[menu.main]]
-    name = "加入社区"
-    url = "/history/"
-    weight = 3
+# [[menu.main]]
+#    name = "加入社区"
+#    url = "/history/"
+#    weight = 3
 
 [[menu.main]]
     name = "了解我们"
