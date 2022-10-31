@@ -49,7 +49,7 @@ theme = "hugo-hero-theme"
     weight = 3
 
 [[menu.main]]
-    name = "查看日程"
+    name = "了解我们"
     url = "/history/"
     weight = 3
 

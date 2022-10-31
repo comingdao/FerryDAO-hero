@@ -1,9 +1,12 @@
 ---
-title: 'We Help Business Grow'
+title: '提升你的经济价值'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: '了解我们'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+组织是经济的核心生产单元，是劳动价值与资本价值的核心转化器；人是组织的基本构成单位，构建组织、稳定组织和发展组织是驱动组织成功的核心能力。
+
+摆渡咨询·FerryDAO 致力于研发面向系统规范的协作、公开透明的信息和自下而上的治理等机制，帮助去中心化组织低成本、高效率的将募集到的资源转化为生产力，帮助准备在 Web3 领域深耕的个人成为拥有高经济价值的专业人才。
+
