@@ -39,9 +39,9 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "价值清单"
-    url = "/work/"
-    
+    url = "/work/" 
     weight = 2
+    
 [[menu.main]]
     name = "加入社区"
     url = "/history/"
