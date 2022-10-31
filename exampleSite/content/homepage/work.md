@@ -1,7 +1,7 @@
 ---
 title: '提升你的商业价值'
 weight: 1
-background: 'images/隐藏的价值.jpg'
+background: 'images/门外的世界.jpg'
 button: '了解我们'
 buttonLink: 'work'
 ---
