@@ -1,5 +1,5 @@
 ---
-title: '提升你的经济价值'
+title: '提升你的商业价值'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: '了解我们'
