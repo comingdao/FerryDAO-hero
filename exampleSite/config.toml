@@ -47,10 +47,7 @@ theme = "hugo-hero-theme"
     url = "/history/"
     weight = 3
 
-[[menu.main]]
-    name = "了解我们"
-    url = "/about/"
-    weight = 3
+
     
 [[menu.main]]
     name = "联系我们"
