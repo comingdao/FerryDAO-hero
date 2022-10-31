@@ -1,7 +1,7 @@
 ---
 title: '提升你的商业价值'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/拳头上的成功人士.jpg'
 button: '了解我们'
 buttonLink: 'work'
 ---
