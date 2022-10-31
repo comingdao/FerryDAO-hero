@@ -1,8 +1,8 @@
 ---
-title: 'Our Difference'
+title: '一起加入 Web3 的世界吧！'
 weight: 2
 background: ''
-button: 'About Us'
+button: '立即咨询'
 buttonLink: 'about'
 ---
 
