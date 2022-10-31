@@ -3,7 +3,7 @@ title: '提升你的商业价值'
 weight: 1
 background: 'images/射中目标.jpg'
 button: '了解我们'
-buttonLink: 'work'
+buttonLink: 'about'
 ---
 
 组织是经济的核心生产单元，是劳动价值与资本价值的核心转化器；人是组织的基本构成单位，构建、稳定和发展组织是驱动组织成功的核心能力。
