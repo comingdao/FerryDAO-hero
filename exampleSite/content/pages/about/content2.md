@@ -2,7 +2,7 @@
 title: '创造机会，摆脱当下'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'images/纸飞机2.jpg'
+background: 'images/纸飞机22.jpg'
 align: left
 ---
 
