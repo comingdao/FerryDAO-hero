@@ -1,11 +1,11 @@
 ---
-title: 'Giving Back'
+title: '使你的生活更加美好！'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
 background: ''
 align: right
-button: 'Contact Us'
+button: '立即咨询'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+我们希望帮忙先行者们适应新技术、全球化、观念的改变，持续的人口结构变化以及新的发展所带来的影响。我们希望先行者们能持续创造并保持高水平的经济价值。我们希望我们提供的价值能够为你带来巨大的回报，使你的生活更加美好！

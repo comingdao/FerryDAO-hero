@@ -1,9 +1,9 @@
 ---
-title: 'Integrity & Performance'
+title: '创造机会，摆脱当下'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+我们生活在全世界最富有、最发达的其中一个国家里。在这里，机遇在向每一个人挥手示意，每个人都努力识别并抓住机会。而对于先行者来说，如果没有机会向我们挥手示意，那么我们就自己创造机会来摆脱当下！
