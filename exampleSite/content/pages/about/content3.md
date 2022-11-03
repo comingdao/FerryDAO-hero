@@ -2,7 +2,7 @@
 title: '使你的生活更加美好！'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
-background: ''
+background: 'images/纸飞机3.jpg'
 align: right
 button: '立即咨询'
 buttonLink: 'contact'
