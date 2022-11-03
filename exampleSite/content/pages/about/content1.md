@@ -2,7 +2,7 @@
 title: '你需要一名向导'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: 'images/纸飞机11.jpg'
+background: 'images/纸飞机00.jpg'
 align: right
 ---
 
