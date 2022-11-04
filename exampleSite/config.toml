@@ -49,7 +49,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "了解我们"
-    url = "/https://www.wolai.com/ferrydao/c9qL9zwHjFo4K26LEUjHNe/"
+    url = "https://www.wolai.com/ferrydao/c9qL9zwHjFo4K26LEUjHNe"
     weight = 4
     
 [[menu.main]]
