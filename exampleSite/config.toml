@@ -54,7 +54,7 @@ theme = "hugo-hero-theme"
     
 [[menu.main]]
     name = "联系我们"
-    url = "/contact/"
+    url = "https://www.wolai.com/f/tXPeVF61aSad1DmN9Vr5nU"
     weight = 5
 
 [permalinks]
