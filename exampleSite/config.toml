@@ -13,10 +13,10 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo_w.png"
+    mobile = "images/logo_w.jpg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo_w.png"
+    desktop = "images/logo_w.jpg"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "Hugo Hero"
