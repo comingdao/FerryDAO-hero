@@ -1,7 +1,7 @@
 ---
 title: '提升你的经济价值'
 weight: 1
-background: 'images/射中目标.jpg'
+background: 'images/科技线条背景.jpg'
 button: '了解我们'
 buttonLink: 'about'
 ---
