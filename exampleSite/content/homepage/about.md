@@ -1,7 +1,7 @@
 ---
 title: '不断创造，保持卓越'
 weight: 2
-background: 'images/成功之巅.jpg'
+background: 'images/商业合作握手.jpg'
 button: '立即咨询'
 buttonLink: 'contact'
 ---
